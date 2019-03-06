@@ -1,0 +1,20 @@
+﻿<UserControl x:ConnectionId='1'
+    x:Class="Match_Animal.MyControls.MyGrid"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Match_Animal.MyControls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Name="container"
+    Width="50"
+    Height="50">
+
+    <Grid x:ConnectionId='2' x:Name="my_grid" Width="50" Height="50" >
+        <!-- <Image x:Name="image" Source="ms-appx:///Assets/animal/Bird-96.png"/> -->
+        <Button x:ConnectionId='3' Name="btn" FontSize="12" Background="#FFFFD0DB" Foreground="#FFFFFBFB" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Padding="3,3,3,3">
+            <Image x:ConnectionId='4' x:Name="my_image"></Image>
+        </Button>
+           </Grid>
+</UserControl>
+

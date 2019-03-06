@@ -1,0 +1,2 @@
+MainPackage=C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Match Animal_1.1.26.0_x86.appx
+SymbolPackage=C:\Work\Visual Studio Project\Match Animal\Match Animal\AppPackages\Match Animal_1.1.26.0_Test\Match Animal_1.1.26.0_x86.appxsym

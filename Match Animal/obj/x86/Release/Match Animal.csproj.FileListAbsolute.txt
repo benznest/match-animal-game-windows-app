@@ -1,0 +1,434 @@
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\App.xbf
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\MyControls\MyGrid.xbf
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\MainPage.xbf
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Match Animal.xr.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Match Animal.exe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Match Animal.pdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\resources.pri
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\AppxManifest.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Adapters.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\AssemblyInfo.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\1.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\10.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\11.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\12.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\13.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\2.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\3.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\4.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\5.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\6.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\7.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\8.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\9.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\StoreLogo.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\StoreLogo.scale-400.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\ClrCompression.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Data.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Helpers.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\ImplTypes.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Match Animal.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Match Animal.exe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Match Animal.ITFProxy.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Match Animal.pdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Match Animal.xr.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\PInvoke.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\resources.pri
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\SafeTypes.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\SharedStubs.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Sounds\beat.wav
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Sounds\impact.wav
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Sounds\select.wav
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Match Animal.build.appxrecipe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Upload\Match Animal.build.appxrecipe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Microsoft.CSharp.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ComponentModel.DataAnnotations.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Core.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Numerics.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.Serialization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ServiceModel.Web.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ServiceModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Windows.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Xml.Linq.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Xml.Serialization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Xml.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\mscorlib.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Microsoft.VisualBasic.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Microsoft.Win32.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.AppContext.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Collections.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Collections.Concurrent.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Collections.Immutable.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Collections.NonGeneric.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Collections.Specialized.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ComponentModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ComponentModel.Annotations.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ComponentModel.EventBasedAsync.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Data.Common.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Diagnostics.Contracts.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Diagnostics.Debug.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Diagnostics.StackTrace.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Diagnostics.Tools.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Diagnostics.Tracing.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Dynamic.Runtime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Globalization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Globalization.Calendars.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Globalization.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.IO.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.IO.Compression.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ClrCompression.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.IO.Compression.ZipFile.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.IO.FileSystem.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.IO.FileSystem.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.IO.IsolatedStorage.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.IO.UnmanagedMemoryStream.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Linq.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Linq.Expressions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Linq.Parallel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Linq.Queryable.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.Http.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.Http.Rtc.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.NetworkInformation.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.Requests.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.Sockets.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Net.WebHeaderCollection.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Numerics.Vectors.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ObjectModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Private.DataContractSerialization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Private.Networking.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Private.ServiceModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Private.Uri.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.Context.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.DispatchProxy.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.Emit.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.Emit.ILGeneration.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.Metadata.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Reflection.TypeExtensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Resources.ResourceManager.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.Handles.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.InteropServices.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.Numerics.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.Serialization.Json.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.Serialization.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.Serialization.Xml.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.WindowsRuntime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Security.Claims.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Security.Principal.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ServiceModel.Duplex.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ServiceModel.Http.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ServiceModel.NetTcp.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ServiceModel.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.ServiceModel.Security.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Text.Encoding.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Text.Encoding.CodePages.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Text.Encoding.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Text.RegularExpressions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Threading.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Threading.Overlapped.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Threading.Tasks.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Threading.Tasks.Dataflow.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Threading.Tasks.Parallel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Threading.Timer.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Xml.ReaderWriter.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Xml.XDocument.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Xml.XmlDocument.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\System.Xml.XmlSerializer.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\App.g.i.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\App.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MyControls\MyGrid.g.i.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MyControls\MyGrid.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MainPage.g.i.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MainPage.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\XamlTypeInfo.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\App.xaml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MyControls\MyGrid.xaml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MainPage.xaml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\App.xbf
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MyControls\MyGrid.xbf
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MainPage.xbf
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\XamlSaveStateFile.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\Match Animal.exe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\Match Animal.pdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ResourceHandlingTask.state
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\Match Animal.csproj.GenerateResource.Cache
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\priconfig.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\priconfig.xml.intermediate
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\layout.resfiles
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\layout.resfiles.intermediate
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\resources.resfiles
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\resources.resfiles.intermediate
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\pri.resfiles
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\pri.resfiles.intermediate
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\qualifiers.txt
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\qualifiers.txt.intermediate
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ProjectArchitectures.txt
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Properties\Default.rd.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Match Animal.xr.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\AppxManifest.xml
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Match Animal.pdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Match Animal.exe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Microsoft.CSharp.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ComponentModel.DataAnnotations.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Core.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Numerics.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.Serialization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ServiceModel.Web.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ServiceModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Windows.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Xml.Linq.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Xml.Serialization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Xml.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\mscorlib.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Microsoft.VisualBasic.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Microsoft.Win32.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.AppContext.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Collections.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Collections.Concurrent.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Collections.Immutable.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Collections.NonGeneric.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Collections.Specialized.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ComponentModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ComponentModel.Annotations.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ComponentModel.EventBasedAsync.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Data.Common.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Diagnostics.Contracts.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Diagnostics.Debug.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Diagnostics.StackTrace.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Diagnostics.Tools.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Diagnostics.Tracing.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Dynamic.Runtime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Globalization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Globalization.Calendars.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Globalization.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.IO.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.IO.Compression.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.IO.Compression.ZipFile.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.IO.FileSystem.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.IO.FileSystem.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.IO.IsolatedStorage.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.IO.UnmanagedMemoryStream.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Linq.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Linq.Expressions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Linq.Parallel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Linq.Queryable.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.Http.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.Http.Rtc.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.NetworkInformation.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.Requests.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.Sockets.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Net.WebHeaderCollection.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Numerics.Vectors.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ObjectModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Private.DataContractSerialization.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Private.Networking.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Private.ServiceModel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Private.Uri.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.Context.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.DispatchProxy.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.Emit.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.Emit.ILGeneration.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.Metadata.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Reflection.TypeExtensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Resources.ResourceManager.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.Handles.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.InteropServices.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.Numerics.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.Serialization.Json.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.Serialization.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.Serialization.Xml.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Security.Claims.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Security.Principal.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ServiceModel.Duplex.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ServiceModel.Http.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ServiceModel.NetTcp.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ServiceModel.Primitives.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.ServiceModel.Security.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Text.Encoding.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Text.Encoding.CodePages.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Text.Encoding.Extensions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Text.RegularExpressions.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Threading.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Threading.Overlapped.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Threading.Tasks.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Threading.Tasks.Dataflow.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Threading.Tasks.Parallel.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Threading.Timer.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Xml.ReaderWriter.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Xml.XDocument.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Xml.XmlDocument.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\System.Xml.XmlSerializer.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\resources.pri
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\ClrCompression.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\10.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\11.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\12.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\13.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\3.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\4.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\5.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\6.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\7.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\8.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\9.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\1.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\2.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-100.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\StoreLogo.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\StoreLogo.scale-400.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\SplashScreen.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\Square150x150Logo.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\Square44x44Logo.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\Wide310x150Logo.scale-200.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Sounds\beat.wav
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Sounds\impact.wav
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Sounds\select.wav
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc.Match Animal.rsp
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.rc
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.res
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\BuildInfo\BuildInfo.txt
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\gkargs.rsp
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.closure.csv
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.csv
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.forwarders.csv
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.ilexe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.ilexe.ILTransformTask.repro
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.ilpdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.McgInterop.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.McgInterop.ilpdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.metadata
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.reflectionlog.csv
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Match Animal.res
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\Microsoft.Win32.Primitives.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.AppContext.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Collections.NonGeneric.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.ComponentModel.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Data.Common.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.StackTrace.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Diagnostics.Tools.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Globalization.Extensions.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.FileSystem.Primitives.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.IsolatedStorage.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.IO.UnmanagedMemoryStream.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Numerics.Vectors.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.DeveloperExperience.AppX.ilpdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.Networking.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.PortableThunks.ilpdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.StackTraceGenerator.ilpdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Private.WinRTInterop.CoreLib.ilpdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Handles.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.Serialization.Primitives.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Runtime.WindowsRuntime.UI.Xaml.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Claims.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Security.Principal.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Text.Encoding.CodePages.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Overlapped.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\ILTransformed\System.Threading.Tasks.Parallel.ildll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.ITFProxy.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop.pdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\Adapters.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\AssemblyInfo.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\Data.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\Helpers.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\ImplTypes.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\PInvoke.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\SafeTypes.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Match Animal.McgInterop\SharedStubs.g.cs
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\MDIL\Match Animal.mdilexe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\MDIL\Match Animal.mdilpdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\MDIL\Match Animal.rsp
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Native.res
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\Native\Match Animal.pdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Match Animal.exe
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\Match Animal.pdb
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\rhbindargs.Match Animal.rsp
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\sgargs.rsp
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\Match Animal.csprojResolveAssemblyReference.cache
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\14.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\15.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\16.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\17.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\18.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\19.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\20.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\21.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\22.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\23.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\24.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\25.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\26.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\27.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\28.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\29.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\30.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\31.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\32.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\33.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\34.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\35.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\ilc\Assets\animal\36.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\14.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\15.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\16.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\17.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\18.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\19.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\20.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\21.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\22.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\23.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\24.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\25.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\26.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\27.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\28.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\29.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\30.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\31.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\32.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\33.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\34.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\35.png
+C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\Assets\animal\36.png

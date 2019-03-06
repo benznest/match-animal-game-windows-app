@@ -1,0 +1,1 @@
+MainPackage=C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x86\Release\Upload\Match Animal_1.1.26.0_x86.appx

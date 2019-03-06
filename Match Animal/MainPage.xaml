@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Match_Animal.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:benznest="using:Match_Animal.MyControls" SizeChanged="Page_SizeChanged" Width="1000" Height="640">
+
+    <Grid x:Name="grid_container" Background="#FF00FF78" RenderTransformOrigin="0.5,0.5"
+          MinWidth="1000">
+        <GridView x:Name="gridView_container" Margin="50,100,50,50" SelectionMode="None" Background="#CCFFFFFF" Padding="15" UseLayoutRounding="False" ScrollViewer.VerticalScrollBarVisibility="Disabled" VerticalAlignment="Center" HorizontalAlignment="Center" TabNavigation="Once"/>
+        <TextBlock TextWrapping="Wrap" Text="benzneststudios" Margin="50,0,50,20" VerticalAlignment="Bottom" FontSize="16" Foreground="#FF4D4D4D" HorizontalAlignment="Center"/>
+        <Grid Height="70" Margin="0" VerticalAlignment="Top" Background="#FF009F3C">
+            <ProgressBar x:Name="progress_bar" HorizontalAlignment="Center" Height="30" Margin="0" VerticalAlignment="Center" Width="600" Value="100"/>
+            <Button Visibility="Collapsed" x:Name="btn_print" Content="print" HorizontalAlignment="Left" Margin="872,10,0,0" VerticalAlignment="Top" Click="btn_print_Click"/>
+        </Grid>
+    </Grid>
+</Page>

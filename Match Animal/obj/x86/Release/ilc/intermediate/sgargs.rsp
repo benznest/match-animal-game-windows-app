@@ -1,0 +1,10 @@
+/out:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\\"
+/ref:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\\"
+/ref:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\\"
+/ref:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Private\\"
+/ref:"C:\Work\Visual Studio Project\Match Animal\Match Animal\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

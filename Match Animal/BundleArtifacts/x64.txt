@@ -1,0 +1,4 @@
+MainPackage=C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x64\Release\Match Animal_1.1.26.0_x64.appx
+SymbolPackage=C:\Work\Visual Studio Project\Match Animal\Match Animal\AppPackages\Match Animal_1.1.26.0_Test\Match Animal_1.1.26.0_x64.appxsym
+ResourcePack=C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x64\Release\Match Animal_1.1.26.0_scale-100.appx
+ResourcePack=C:\Work\Visual Studio Project\Match Animal\Match Animal\bin\x64\Release\Match Animal_1.1.26.0_scale-400.appx
